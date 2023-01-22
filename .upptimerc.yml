@@ -4,8 +4,16 @@ repo: upptime
 
 # Sites to monitor
 sites:
+  - name: Josselin Liebe
+    url: https://josselinlie.be
   - name: Piloterr
     url: https://piloterr.com
+  - name: Retailed
+    url: https://www.retailed.io
+  - name: Veille
+    url: https://www.veille.io
+  - name: LOFI
+    url: https://lofi.media
 
 # Website Data
 status-website:
